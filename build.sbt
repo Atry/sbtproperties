@@ -24,4 +24,4 @@ seq(scalariformSettings: _*)
 
 seq(scriptedSettings: _*)
 
-seq(sbtrelease.Release.releaseSettings: _*)
+seq(releaseSettings: _*)
